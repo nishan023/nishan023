@@ -2,8 +2,6 @@
 
 <h1 align="center">Namaste :pray:, I'm Nishan Dhakal</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Testing+how+this+displays+here+%F0%9F%94%8D)](https://dhakalnishan.com.np)
-
 <h3 align="center">I am actively learning a programming language to expand my technical skills</h3>
 
 - UnderGrad BSc.CSIT student at [Texas International](https://texasintl.edu.np/)
