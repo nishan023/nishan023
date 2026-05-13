@@ -99,7 +99,7 @@ Currently exploring distributed systems, DevOps, microservices, CI/CD, and scala
 <!-- Databases -->
 <!--<h3>Databases & Backend Services</h3>-->
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,firebase,supabase" />
 
 
 
