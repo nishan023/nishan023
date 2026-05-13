@@ -113,7 +113,7 @@ Currently exploring distributed systems, DevOps, microservices, CI/CD, and scala
 <!-- DevOps -->
 <!--<h3>DevOps • Cloud • Infrastructure</h3>-->
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,cloudflare,githubactions,netlify" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,cloudflare,githubactions,netlify,vercel" />
 
 <br/>
 </div>
