@@ -81,7 +81,6 @@ Currently exploring distributed systems, DevOps, microservices, CI/CD, and scala
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,c" />
 
-</br>
 
 <!-- Frontend -->
 <!--<h3>Frontend Development</h3>
@@ -95,14 +94,14 @@ Currently exploring distributed systems, DevOps, microservices, CI/CD, and scala
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,rabbitmq,redis" />
 
-<br/>
+
 
 <!-- Databases -->
 <!--<h3>Databases & Backend Services</h3>-->
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
 
-<br/>
+
 
 
 <!-- Tools -->
@@ -110,7 +109,7 @@ Currently exploring distributed systems, DevOps, microservices, CI/CD, and scala
 
 <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman" />
 
-</br>
+
 <!-- DevOps -->
 <!--<h3>DevOps • Cloud • Infrastructure</h3>-->
 
