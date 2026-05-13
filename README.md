@@ -1,28 +1,177 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
+<!-- ========================= HERO SECTION ========================= -->
 
-<h1 align="center">Namaste :pray:, I'm Nishan Dhakal</h1>
+<div align="center">
 
-<h3 align="center">I am actively learning a programming language to expand my technical skills</h3>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg" width="100%" alt="Banner"/>
 
-- UnderGrad BSc.CSIT student at [Texas International](https://texasintl.edu.np/)
-- How to reach me **nissandhakal11@gmail.com**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nissandhakal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nissandhakal11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishandhakal023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishandhakal023" height="30" width="40" /></a>
-<a href="https://fb.com/nissan.dhakal.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nissan.dhakal.23" height="30" width="40" /></a>
-<a href="https://instagram.com/nissan_dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nissan_dhakal" height="30" width="40" /></a>
+<h1 align="center">Namaste 🙏, I'm Nishan Dhakal</h1>
+
+<h3 align="center">
+Backend Developer • DevOps Enthusiast • BSc.CSIT Student
+</h3>
+
+<p align="center">
+Passionate about building scalable backend systems, APIs, cloud infrastructure, and modern web applications.
+Currently exploring distributed systems, DevOps, microservices, CI/CD, and scalable architectures.
 </p>
 
-## 📊 My Github Stats
+</div>
 
-| ![](https://github-readme-stats.vercel.app/api?username=nishan023&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishan023&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+---
 
-![](https://activity-graph.herokuapp.com/graph?username=nishan023&theme=redical&bg_color=ffffff00&color=38BDAD&title_color=72A6FD)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishan023&theme=whatsapp-dark2&card_width=810)](https://git.io/streak-stats)
+<!-- ========================= SOCIALS ========================= -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nishan023&style=for-the-badge" alt="blackkspydo"/>
+<div align="center">
+
+<a href="https://linkedin.com/in/nishandhakal023" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fb.com/nishandhakal23" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/nishandhakal23" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://dhakalnishan.com.np" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:nissandhakal11@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= ABOUT ========================= -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+🎓 Undergraduate BSc.CSIT Student at  
+<b>Texas International College (TU)</b>
+
+💻 Focused on Backend Development & DevOps
+
+
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+
+<div align="center">
+
+<!-- Languages -->
+<!-- <h3>Languages</h3> -->
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,c" />
+
+</br>
+
+<!-- Frontend -->
+<!--<h3>Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=react,next,redux,tailwind" />
+
+<br/><br/> -->
+
+<!-- Backend -->
+<!--<h3>Backend Development</h3>-->
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,rabbitmq,redis" />
+
+<br/>
+
+<!-- Databases -->
+<!--<h3>Databases & Backend Services</h3>-->
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+
+<br/>
+
+
+<!-- Tools -->
+<!--<h3>Development Tools</h3>-->
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman" />
+
+</br>
+<!-- DevOps -->
+<!--<h3>DevOps • Cloud • Infrastructure</h3>-->
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,cloudflare,githubactions,netlify" />
+
+<br/>
+</div>
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<br/>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan023&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=nishan023&count_private=true&show_icons=true&theme=react&border_radius=10" alt="github stats"/>
+
+<br/><br/>
+
+<img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nishan023&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+
+</div>
+
+---
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishan023&theme=react-dark&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ========================= SNAKE ========================= -->
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark"/>
+
+</div>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nishan023&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+❤️ From <b>Nishan Dhakal</b>
+
+</div>
